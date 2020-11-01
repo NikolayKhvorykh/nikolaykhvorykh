@@ -1,0 +1,172 @@
+
+.log
+{
+    font-size: 95%;
+    margin-top: -2.5%;
+    margin-left: 15%;
+    color: black;
+}
+.news
+{
+    font-size: 95%;
+    margin-top: -2%;
+    margin-left: 850px;
+    
+}
+.del
+{
+    font-size: 95%;
+    margin-top: -1.2245%;
+    margin-left: 965px;
+    
+}
+.logo
+{
+    margin-top: -0.5%;
+    vertical-align: middle;
+    margin-left: 520px;
+}
+.headdown
+{
+    margin-top: -0.5%;
+}
+.tel
+{
+    margin-top: -70px;
+    margin-left: 170px;
+}
+.tel-inst
+{
+    margin-top: -40px;
+    margin-left: 140px;
+}
+.welcome
+{
+    margin-top: -10.5%;
+    margin-left: 920px;
+}
+h1
+{
+    margin-left: 380px;
+}
+.scale
+{
+    margin-top: 15px;
+    width: 200px;
+    margin-left: 100px;
+    
+}
+.scale:hover
+{
+    transform: scale(1.2);
+}
+.info
+{
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    margin-top: 0px; 
+    font-size: 30px;
+    margin-left: 370px;
+    color: 	black;
+}
+.info2
+{
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    margin-top: -30px;
+    font-size: 30px;
+    margin-left: 430px;
+    color: 	black;
+    
+}
+.line
+{
+    margin-left:600px;
+    margin-top: -20px;
+}
+.title
+{
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    margin-top: 0px; 
+    font-size: 20px;
+    margin-left: 450px;
+    color: 	black;
+}
+.new
+{
+    font-size: 25px;
+       margin-left: 500px;
+}
+.line2
+{
+    margin-left: 520px;
+    margin-top: -30px;
+    
+}
+.woman-brown
+{
+    margin-left: -350px;
+    margin-top: -20px;
+}
+.man-gray
+{
+    margin-top: -80px;
+    margin-left: 1000px;
+}
+.woman-color
+{
+    margin-top: -37px;
+    margin-left: 700px;
+}
+.man-black
+{
+    margin-top: -40px;
+    margin-left: 380px;
+}
+.man-gray1
+{
+    margin-top: -20px;
+    margin-left: 30px;
+}
+.woman-color1
+{
+    margin-top: -57px;
+    margin-left: 350px;
+}
+.man-black1
+{
+    margin-top: -59px;
+    margin-left: 650px;
+}
+.line3
+{
+    margin-left: 380px;
+    margin-top: -20px;
+}
+.report
+{
+    margin-left: 30px;
+}
+.sale-title
+{
+    margin-left: 200px;
+}
+.line4
+{
+    margin-left: 570px;
+    margin-top: -2  0px;
+}
+.number-footer
+{
+    margin-top: -210px;
+    margin-left: 30px;
+}
+.info-footer
+{
+    margin-top: -70px;
+    
+    margin-left: 270px;
+}
+.mail-footer
+{
+    margin-left: 30px;
+    margin-top: -45px;
+}
